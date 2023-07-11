@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="250"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gianninaminano/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -36,7 +36,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -54,7 +54,18 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GIMDZ&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gimdz&label=Profile%20views&color=0e75b6&style=flat" alt="gimdz" /> </p>
+
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gimdz&theme=radical&hide_border=true" alt="gimdz" /></p>
+
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gimdz&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="gimdz" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimdz&show_icons=true&locale=en" alt="gimdz" /></p>-->
+
+
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GIMDZ&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIMDZ&layout=compact&theme=vision-friendly-dark)](https://readme-stats.clckblog.space/)
 <!--
 **GIMDZ/GIMDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
